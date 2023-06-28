@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jKmH1EeepwUmG3wVsQ+rLXKhtQZ9s3PQb3llKHhqlTw=",
+  "Source": "VMS.Api",
+  "BasePath": "_content/VMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
