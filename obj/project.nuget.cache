@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7auqPaDYHzMrd+KUCrhSfLP3/3M800bwAz5mvkXMOfEakbzwg7rFfxuyw5FxEdcDnTFkKzBNVeGQW9tiBzYDeg==",
+  "dgSpecHash": "0ggkY7W1N0i2QXpqsBKL9SCN7Zfajubmy9YOADBRTjaXapzBudsI1YyNQmeNoNcQG7iOhr1LDWM/OmHHJqgLNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\VMS.Api.csproj",
+  "projectFilePath": "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\VMS.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Medel\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Medel\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\Medel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Medel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Medel\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",

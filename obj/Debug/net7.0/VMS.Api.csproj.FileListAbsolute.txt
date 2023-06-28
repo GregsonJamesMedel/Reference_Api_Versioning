@@ -32,3 +32,4 @@ C:\Users\Medel\Desktop\vms\VMS.Api\obj\Debug\net7.0\VMS.Api.pdb
 C:\Users\Medel\Desktop\vms\VMS.Api\obj\Debug\net7.0\VMS.Api.genruntimeconfig.cache
 C:\Users\Medel\Desktop\vms\VMS.Api\obj\Debug\net7.0\ref\VMS.Api.dll
 C:\Users\Medel\Desktop\vms\VMS.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Medel\Desktop\VMS\VMS.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll

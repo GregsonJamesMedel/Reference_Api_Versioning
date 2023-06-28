@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\VMS.Api.csproj": {}
+    "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\VMS.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\VMS.Api.csproj": {
+    "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\VMS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\VMS.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\VMS.Api.csproj",
         "projectName": "VMS.Api",
-        "projectPath": "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\VMS.Api.csproj",
+        "projectPath": "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\VMS.Api.csproj",
         "packagesPath": "C:\\Users\\Medel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Medel\\Desktop\\vms\\VMS.Api\\obj\\",
+        "outputPath": "C:\\Users\\Medel\\Desktop\\VMS\\VMS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,10 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
               "target": "Package",
               "version": "[5.1.0, )"
             },
